@@ -1,3 +1,3 @@
 "Hello Git!" 
 This is second line
-Feature branch change 
+Conflict branch change 
